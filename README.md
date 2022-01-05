@@ -1,2 +1,2 @@
 # allauth
-all auth version 0.40.0 with some updates
+django-allauth==0.40.0 with some updates
